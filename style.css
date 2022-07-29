@@ -64,9 +64,9 @@ a{
 }
 .contact{
     display: flex;
-    height: 300px;
+    height: 350px;
     background-color: rgb(99, 99, 219);
-    padding: 70px;
+    padding: 50px 0 20px 0;
     color: #ffffff;
 }
 .contact .first{
