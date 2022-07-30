@@ -169,10 +169,10 @@ padding: 5px;
 .footer .icons{
     justify-content: space-between;
     display: flex;
-    width: 120px;
+    width: 150px;
     color: #eeeeee;
     align-items: center;
-    margin-left: 45%;
+    margin-left: 43%;
     margin-top: 20px;
     
 }
